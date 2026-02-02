@@ -296,6 +296,24 @@ a:hover {
     color: #e4e4e7;
 }
 
+.hero-content {
+    text-align: center;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.hero-subtitle {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hero-features,
+.hero-cta,
+.trust-badges {
+    justify-content: center;
+}
+
+
 /* ============================================
    BUTTONS
    ============================================ */
